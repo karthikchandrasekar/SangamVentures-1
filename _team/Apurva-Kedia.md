@@ -3,7 +3,7 @@ title: "Apurva Kedia"
 date: 2018-12-20T13:44:30+10:00
 draft: false
 image: "images/team/AK Photo.png"
-jobtitle: "Analyst & EA"
+jobtitle: "Investment Analyst & EA"
 linkedinurl: "https://www.linkedin.com/in/ak19122000/"
 twitterurl: " "
 twitterUsername: " "
