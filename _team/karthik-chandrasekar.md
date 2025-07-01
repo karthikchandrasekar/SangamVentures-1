@@ -24,6 +24,6 @@ Karthik is a morning person, enjoys the outdoors, experimenting with food, and c
 <hr/>
 ### Blogs and Links
 
-#### The Valuation Game...What Does It Mean Exactly?
-[LinkedIn Blog](#https://www.linkedin.com/pulse/valuation-gamewhat-does-mean-exactly-karthik-chandrasekar/)
+#### [The Valuation Game...What Does It Mean Exactly?](#https://www.linkedin.com/pulse/valuation-gamewhat-does-mean-exactly-karthik-chandrasekar/)
+[LinkedIn Blog]
 
