@@ -11,20 +11,16 @@ weight: 2
 layout: team
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Anisha is a Venture Partner with Sangam. She dons several hats, in her 21 years of vast experience as a corporate commercial lawyer, an entrepreneur, and as an investor.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Anisha is the founder of India's foremost startup consultancy firm, LexStart.
+
+Anisha is an active sector-agnostic angel investor. Her portfolio companies range from popular D2C brands, such as The Whole Truth and WickedGud to several women-focused venture capital funds. She is also the only women jury cum angel investor on The 10 Minute Million (By IIT Bombay).
+
+Anisha also boasts of a diverse experience from being a founder of a cleantech accelerator, managing director and co-founder of one of the first women-focused angel networks in the country, and founder of one of the first legal tech startups in the country.
 
 {% include team-socials.html %}
 
 <hr/>
 ### Blogs and Links
 
-#### Some Link heading
-[membra contractosque](#linkurl)
-
-#### Some Link heading
-[membra contractosque](#linkurl)
-
-#### Some Link heading
-[membra contractosque](#linkurl)
