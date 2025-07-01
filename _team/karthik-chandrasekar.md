@@ -3,7 +3,7 @@ title: "Karthik Chandrasekar"
 date: 2018-12-20T13:44:30+10:00
 draft: false
 image: "images/team/KC.jpg"
-jobtitle: "Founder"
+jobtitle: "Managing Partner, CEO"
 linkedinurl: "https://www.linkedin.com/in/karthikchandrasekar/"
 twitterurl: "https://twitter.com/quickgunmurugun"
 twitterUsername: "@quickgunmurugun"
