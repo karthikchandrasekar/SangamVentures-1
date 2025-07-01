@@ -11,8 +11,13 @@ weight: 1
 layout: team
 ---
 
-Karthik started Sangam to find a new model to provide early stage support for climate change pioneers. He spends a lot of his time with the portfolio & within the clean technology eco-system in India & globally. Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
-quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam recusandae alias error harum maxime adipisci amet laborum. 
+Karthik founded Sangam with support from the Shell Foundation and USAID to find a new model to provide early-stage support for climate change pioneers. he has led investments in 9 clean technology start-ups bringing game-changing technologies to the market. He is also the founder & director of AIC-Sangam, India’s first cleantech Incubator set up in partnership with AIM, NITI Aayog, Government of India.  
+
+Prior to Sangam, Karthik led cleantech investments in India for Acumen and started his India investment journey with TVS Capital and prior experience includes stints at Goldman Sachs, Merrill Lynch, and HSBC across New York and London.  
+
+Karthik holds an MBA from Chicago Booth, MS in Public Policy & Mgmt. from Carnegie Mellon University, and a BTech from IIT Bombay.
+​
+Karthik is a morning person, enjoys the outdoors, experimenting with food, and copious amounts of coffee
 
 {% include team-socials.html %}
 
