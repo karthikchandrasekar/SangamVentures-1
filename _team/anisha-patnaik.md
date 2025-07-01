@@ -3,7 +3,7 @@ title: "Anisha Patnaik"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/Anisha photo.jpeg"
-jobtitle: "Venture Partner"
+jobtitle: "Venture Partner, Legal Counsel"
 twitterurl: "https://twitter.com/AnishaPatnaik"
 twitterUsername: "@AnishaPatnaik"
 linkedinurl: ""
