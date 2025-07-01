@@ -4,6 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/Anisha photo.jpeg"
 jobtitle: "Venture Partner, Legal Counsel"
+linkedinurl: "https://www.linkedin.com/in/anishapatnaik/"
 twitterurl: "https://twitter.com/AnishaPatnaik"
 twitterUsername: "@AnishaPatnaik"
 linkedinurl: ""
@@ -22,5 +23,4 @@ Anisha also boasts of a diverse experience from being a founder of a cleantech a
 {% include team-socials.html %}
 
 <hr/>
-### Blogs and Links
 
