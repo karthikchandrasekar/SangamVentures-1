@@ -2,7 +2,7 @@
 title: "Deepika Sood"
 date: 2018-12-20T13:44:23+10:00
 draft: false
-image: "images/team/AK Photo.png"
+image: "images/team/Deepika Photo.png"
 jobtitle: "Partner, CFAO"
 linkedinurl: "https://www.linkedin.com/in/deepika-sood/"
 twitterurl: ""
@@ -24,4 +24,4 @@ She is also an angel investor in 2 Sangam portfolio companies
 {% include team-socials.html %}
 
 <hr/>
-### Blogs and Links
+
