@@ -1,0 +1,15 @@
+{% if page.show-cta %}
+<!-- Call to Action Section -->
+<div class="container">
+  <div class="row cta-box">
+    <h2 id="heading">{{ page.cta-heading }} </h2>
+    <span>
+      <p>{{ page.cta-description }}</p>
+    </span>
+    <button type="button" class="btn button btn-primary btn-lg">
+      <a href="{{ page.cta-button-url | relative_url }}" class = "button-text">{{ page.cta-button-text }}</a></button>
+  </div>
+</div>
+{% endif %}
+
+<!-- This page is to capture content in internal resource pages -->

@@ -2,6 +2,8 @@
 title: "Driving Innovation and Diversity"
 date: 2018-11-19T10:47:58+10:00
 draft: false
+show-page: true
+show-cover-image: true
 image: "images/resource/icon-3.svg"
 cover-image: "images/cover/green-field.jpg"
 headline: "Article Category - How?"
@@ -11,8 +13,6 @@ quote-author-designation: "Founder Sangam Ventures"
 quote-author-image: "images/author/kc-circle.svg"
 author-linkedinurl: "https://www.linkedin.com/in/karthikchandrasekar/"
 category: "about"
-external-article-url: ""
-external-article-name: ""
 show-faq: true
 show-cta: true
 promoted: true
@@ -21,7 +21,6 @@ cta-heading: "Are you a startup?"
 cta-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
 cta-button-text: "Join Us Today"
 cta-button-url: "/resource/startups"
-cta-image: "images/cta/cta-how.jpg"
 questions:
     - "Imagine"
     - "Vienna"
@@ -47,7 +46,4 @@ Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de incuba
 Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per tamen lentis spectat, Titania est animo.
 
 
-{% capture section2 %}
-<!-- If you want to add any text beneath the cta box and above FAQ heading, add here. -->
-{% endcapture %}
-{% include cta-faq.html %}
+{% include faq.html %}
