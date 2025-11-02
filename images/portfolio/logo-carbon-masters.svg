@@ -5,7 +5,12 @@
     <desc>Created with Sketch.</desc>
     <g id="Carbon-masters" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Group-2">
-            <rect id="Rectangle" x="0" y="0" width="340" height="340"></rect>
+            <!-- CHANGED: make the background a white card -->
+            <rect id="Rectangle" x="0" y="0" width="340" height="340" fill="white"></rect>
+            <!-- ADDED: crisp 1px border (like SVG B). Half-pixel position for sharp stroke -->
+            <rect x="0.5" y="0.5" width="339" height="339" fill="none" stroke="#004970" stroke-opacity="0.88"></rect>
+
+            <!-- ORIGINAL ARTWORK UNCHANGED BELOW -->
             <g id="Group" transform="translate(82.000000, 82.000000)" fill="#0A0B09">
                 <path d="M16.8438,124.6531 C20.4918,124.6531 23.2978,126.2901 25.6358,129.0491 L31.1088,129.0491 C28.0218,123.6241 23.0168,120.4911 16.75079,120.4911 C7.81779,120.4911 0.70879,127.6941 0.70879,136.6261 C0.70879,145.4191 7.81779,152.9011 16.7038,152.9011 C22.6898,152.9011 27.9278,149.8621 30.8748,144.6241 L25.3088,144.6241 C23.0638,147.1961 20.2118,148.7391 16.75079,148.7391 C10.2968,148.7391 5.29179,142.8931 5.29179,136.6261 C5.29179,130.1731 10.24979,124.6531 16.8438,124.6531" id="Fill-1"></path>
                 <path d="M42.272,138.9168 L46.294,127.0378 L50.269,138.9168 L42.272,138.9168 Z M44.189,121.0988 L32.357,152.2938 L37.174,152.2938 L40.635,143.0808 L51.859,143.0808 L55.32,152.2938 L60.137,152.2938 L48.305,121.0988 L44.189,121.0988 Z" id="Fill-3"></path>
