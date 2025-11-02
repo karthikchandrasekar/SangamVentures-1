@@ -1,22 +1,24 @@
----
-title: "Apurva Kedia"
+<img width="1532" height="39" alt="image" src="https://github.com/user-attachments/assets/6d62f8e8-599c-4ecc-b7db-8e0d33f77c43" /><img width="1532" height="39" alt="image" src="https://github.com/user-attachments/assets/506ef434-3969-4c50-901f-c51acb472f25" />---
+title: "Rehya Sharma"
 date: 2018-12-20T13:44:30+10:00
 draft: false
-image: "images/team/AK Photo.png"
-jobtitle: "Investment Associate & EA"
-linkedinurl: "https://www.linkedin.com/in/ak19122000/"
+image: "images/team/Rehya Sharma.png"
+jobtitle: "Analyst - COO's Office"
+linkedinurl: "https://www.linkedin.com/in/rehya-sharma-125008208/"
 twitterurl: " "
 twitterUsername: " "
 weight: 6
 layout: team
 ---
-Apurva is an engineer by training and  heart and is always on the hunt for path breaking innovations poised to disrupt traditionally GHG heavy industries. In his words, “I love that we have a thesis first, deep science approach to investment identification. This approach allows me to satisfy my inner nerd by going deep into the core innovation and linking it to market gaps that present the chance for massive value and impact.
+Rehya supports the fund’s finance and operations through the COO’s office, working across reporting, compliance, and process improvement to strengthen the firm’s operating backbone. 
+.
 
 ​<br>
-Apurva holds a B.Engg in Electronics and Instrumentation Engineering from Manipal Institute of Technology
+Rehya has a Bachelor’s degree in Economics & Political Science from Kalindi College, Delhi University
+
 
 ​<br>
-You'll often find him strumming the guitar or dabbling in food science, concocting nutritious and delicious meals. The mountains are his happy place, and he loves to go on treks to ground himself when it is time to escape the hustle and bustle of the concrete jungle
+Rehya loves music and is an avid dancer
  
 
 {% include team-socials.html %}
