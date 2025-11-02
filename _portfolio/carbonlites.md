@@ -28,7 +28,7 @@ It can displace LPG/ diesel in cooking, heating and transport, and energy intens
 ### Blogs and Links
 
 #### Carbon Masters UK
-[Carbon Masters](#[linkurl](https://carbonmasters.co.uk/))
+[Carbon Masters](https://carbonmasters.co.uk/)
 
 #### Some Link heading
 [membra contractosque](#linkurl)
