@@ -2,7 +2,7 @@
 title: "Carbon Masters"
 date: 2018-12-20T13:44:30+10:00
 draft: false
-image: "images/portfolio/Carbon Masters Full Logo.png"
+image: "images/portfolio/logo-carbon-masters.svg"
 tagline: ""
 websiteurl: "https://www.carbonlites.com/"
 websitedomain: "carbonlites.com"
