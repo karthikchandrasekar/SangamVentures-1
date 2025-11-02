@@ -1,4 +1,4 @@
-<img width="1532" height="39" alt="image" src="https://github.com/user-attachments/assets/6d62f8e8-599c-4ecc-b7db-8e0d33f77c43" /><img width="1532" height="39" alt="image" src="https://github.com/user-attachments/assets/506ef434-3969-4c50-901f-c51acb472f25" />---
+---
 title: "Rehya Sharma"
 date: 2018-12-20T13:44:30+10:00
 draft: false
