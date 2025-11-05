@@ -1,5 +1,5 @@
 ---
-title: "Delectric Systems"
+title: "Delectrik Systems"
 date: 2018-12-20T13:44:30+10:00
 draft: false
 image: "images/portfolio/delectrik_logo_inuse.svg"
@@ -24,7 +24,9 @@ Delectrik’s products are based on vanadium redox chemistry and falls into the 
 ### Blogs and Links
 
 #### Delectrik Secures India's Largest VRFB Project
-(https://www.business-standard.com/content/press-releases-ani/delectrik-secures-mwh-scale-flow-battery-contract-from-india-s-largest-power-company-124092400448_1.html)
+<a href="https://www.business-standard.com/content/press-releases-ani/delectrik-secures-mwh-scale-flow-battery-contract-from-india-s-largest-power-company-124092400448_1.html" target="_blank" rel="noopener">
+Delectrik secures MWh-scale flow battery contract from India’s largest power company
+</a>
 
 #### Some Link heading
 [membra contractosque](#linkurl)
