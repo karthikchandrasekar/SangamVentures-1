@@ -2,7 +2,7 @@
 title: "Rahul Kumar"
 date: 2018-12-20T13:45:06+10:00
 draft: false
-image: "images/team/Rahul Kumar.jpg"
+image: "images/team/Rahul Website Photo.png"
 jobtitle: "Finance Manager"
 linkedinurl: "https://www.linkedin.com/in/rahul-kumar-a127b7146/"
 twitterurl: " "
