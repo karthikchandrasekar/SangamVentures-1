@@ -1,6 +1,6 @@
 ---
 title: "Voltrez Tech"
-date: 2018-12-20T13:44:30+10:00
+date: 2018-12-20T13:44:30+10:05
 draft: false
 image: "images/portfolio/voltrez_card.svg"
 tagline: "Making You Safer"
