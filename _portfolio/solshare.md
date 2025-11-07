@@ -6,7 +6,7 @@ image: "images/portfolio/solshare.svg"
 tagline: ""
 websiteurl: "https://me-solshare.com/"
 websitedomain: "me-solshare.com"
-category: "waste-management"
+category: "energy"
 weight: 3
 layout: portfolio
 ---
