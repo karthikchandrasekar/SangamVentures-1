@@ -7,7 +7,7 @@ tagline: ""
 websiteurl: "https://www.thermistance.com/"
 websitedomain: "thermistance.com"
 category: "Energy"
-weight: 6
+weight: 7
 layout: portfolio
 ---
 
