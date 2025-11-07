@@ -1,33 +1,28 @@
 ---
-title: "Carbon Masters"
+title: "Voltrez Tech"
 date: 2018-12-20T13:44:30+10:00
 draft: false
-image: "images/portfolio/logo-carbon-masters.svg"
-tagline: ""
-websiteurl: "https://www.carbonlites.com/"
-websitedomain: "carbonlites.com"
-category: "waste-management"
+image: "images/portfolio/voltrez_card.svg"
+tagline: "Making You Safer"
+websiteurl: "https://voltreztech.com//"
+websitedomain: "VoltrezTech.com"
+category: "energy"
 weight: 6
 layout: portfolio
 ---
 
-Carbon Masters is a climate tech company , established first in the UK in 2009 and then in India in 2012. Their mission is to reduce carbon emissions by replacing fossil fuels consumption with innovative, clean energy, low carbon solutions & products.
+Voltrez Tech is a DeepTech start-up focused on commercializing a new anode chemistry to tackle one of the hardest problems in lithium-ion batteries – dendrite formation. Through their novel anode, Voltrez is working to prevent dendrite growth and the associated risks across a range of chemistries, including NMC, NCA, LFP, LMFP, and Sodium. The versatility of their solution extends to compatibility with various electrolytes (liquid, semi-solid, and solid), and it is also independent of cathode chemistry. Their work focuses on controlling the internal electrochemical processes that lead to dendrite formation, thereby improving both the safety and longevity of batteries. Their innovative anode technology is designed to mitigate the safety risks commonly associated with fast-charging cells. The team is now using the dendrite free chemistry platform to enable ultra-fast charging. This technology maintains the use of graphite as the dominant anode material, ensuring cost-effectiveness compared to other alternatives
 
-They have pioneered the conversion of food and the organic fraction of municipal solid waste (OFMSW) to produce two climate-friendly products, sold and marketed under the brand name Carbonlites.
+We invested in a talented team of technologists at Voltrez, who are tackling one of the most critical challenges in the global battery market - safety. As demand for batteries and mass-market manufacturing grows across a range of applications, from household appliances to electric vehicles, ensuring battery safety is an absolute necessity, rather than a luxury.
 
-Carbonlites Bio-Enriched Organic Manure and Carbonlites CBG, both mitigate carbon emissions and reduce the risks of climate change.
-
-With the unprecedented rise in fossil fuel prices across the country and the world only a decade away from avoiding the worst consequences of climate change, there is now an even greater need for low carbon solutions.
-
-Carbonlites has proven applications in both energy and agriculture, two of the largest GHG emitting sectors in the country at 68.7% and 19.6%.
-
-It can displace LPG/ diesel in cooking, heating and transport, and energy intensive chemical fertilisers in agriculture/horticulture.
+Voltrez is well-positioned to capitalize on this rising demand by developing innovative solutions that not only address safety but also enhance performance. Their cutting-edge approach to battery technology puts them on the path to becoming a global leader in the industry. With their forward-thinking strategies, Voltrez has the potential to emerge as one of the top battery companies coming out of India, pioneering advancements that could significantly impact the future of energy storage globally.
 
 
 <hr/><br>
 ### Blogs and Links
 
-#### <a href="https://carbonmasters.co.uk/" target="_blank" rel="noopener">Carbon Masters Website</a>
+#### <a href="https://voltreztech.com/technology.html" target="_blank" rel="noopener">Voltrez Anode Technology</a>
+
 
 
 #### Some Link heading
