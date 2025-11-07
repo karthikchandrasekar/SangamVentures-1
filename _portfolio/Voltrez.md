@@ -7,7 +7,7 @@ tagline: "Making You Safer"
 websiteurl: "https://voltreztech.com//"
 websitedomain: "VoltrezTech.com"
 category: "energy"
-weight: 6
+weight: 7
 layout: portfolio
 ---
 
