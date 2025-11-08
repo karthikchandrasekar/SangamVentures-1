@@ -1,34 +1,20 @@
 ---
-title: "Carbon Masters"
+title: "Cell Propulsion"
 date: 2018-12-20T13:44:30+10:00
 draft: false
-image: "images/portfolio/logo-carbon-masters.svg"
+image: "images/portfolio/CellProp_Logo.svg"
 tagline: ""
-websiteurl: "https://www.carbonlites.com/"
-websitedomain: "carbonlites.com"
-category: "waste-management"
-weight: 6
+websiteurl: "http://www.cellpropulsion.com/
+websitedomain: "cellpropulsion.com
+category: "energy"
+weight: 7
 layout: portfolio
 ---
 
-Carbon Masters is a climate tech company , established first in the UK in 2009 and then in India in 2012. Their mission is to reduce carbon emissions by replacing fossil fuels consumption with innovative, clean energy, low carbon solutions & products.
-
-They have pioneered the conversion of food and the organic fraction of municipal solid waste (OFMSW) to produce two climate-friendly products, sold and marketed under the brand name Carbonlites.
-
-Carbonlites Bio-Enriched Organic Manure and Carbonlites CBG, both mitigate carbon emissions and reduce the risks of climate change.
-
-With the unprecedented rise in fossil fuel prices across the country and the world only a decade away from avoiding the worst consequences of climate change, there is now an even greater need for low carbon solutions.
-
-Carbonlites has proven applications in both energy and agriculture, two of the largest GHG emitting sectors in the country at 68.7% and 19.6%.
-
-It can displace LPG/ diesel in cooking, heating and transport, and energy intensive chemical fertilisers in agriculture/horticulture.
-
+Cell Propulsion is a mobility technology company which designs and develops enabling technologies for Connected Electric Commercial Vehicles. With deep domain expertise in delivering Electric Propulsion Technologies (Motor Transmission, Power Electronics, and Battery Management) for commercial vehicles and exclusive focus on transportation and logistics markets, Cell Propulsion envisions to accelerate global transition of transportation systems to fully electric.
 
 <hr/><br>
 ### Blogs and Links
-
-#### <a href="https://carbonmasters.co.uk/" target="_blank" rel="noopener">Carbon Masters Website</a>
-
 
 #### Some Link heading
 [membra contractosque](#linkurl)
