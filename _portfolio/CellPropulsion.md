@@ -4,8 +4,8 @@ date: 2018-12-20T13:44:30+10:00
 draft: false
 image: "images/portfolio/CellProp_Logo.svg"
 tagline: " "
-websiteurl: "http://www.cellpropulsion.com/
-websitedomain: "cellpropulsion.com
+websiteurl: "http://www.cellpropulsion.com/"
+websitedomain: "cellpropulsion.com"
 category: "energy"
 weight: 10
 layout: portfolio
