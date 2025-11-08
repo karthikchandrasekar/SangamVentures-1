@@ -6,7 +6,7 @@ image: "images/portfolio/pratyaksha_card_balanced.svg"
 tagline: ""
 websiteurl: ""
 websitedomain: ""
-category: "Agriculture"
+category: "agriculture"
 weight: 8
 layout: portfolio
 ---
