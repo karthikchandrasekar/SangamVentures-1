@@ -6,7 +6,7 @@ image: "images/portfolio/thermistance_card.svg"
 tagline: ""
 websiteurl: "https://www.thermistance.com/"
 websitedomain: "thermistance.com"
-category: "Energy"
+category: "energy"
 weight: 9
 layout: portfolio
 ---
