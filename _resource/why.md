@@ -32,21 +32,13 @@ answers:
     - "We all came out to Montreux <br> On the Lake Geneva shoreline <br> To make records with a mobile <br> We didn't have much time <br> Frank Zappa and the Mothers <br> Were at the best place around <br> But some stupid with a flare gun <br> Burned the place to the ground! <br> -Deep Purple"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Climate Change is the greatest and most urgent global challenge plaguing our generation, and it affects the poor, the vulnerable and the commons disproportionately. Climate change is primarily anthropogenic (driven by human activity). We, as a civilization, are reluctant to wean ourselves off our climate altering habits and are rapidly disassociating from nature as our planet hurtles towards biodiversity loss and ecological collapse. 
+We want to invest in the next wave of innovations brings us in harmony with nature and preserves what precious diversity our planet has to offer for the future generations.
+The technological progress over the last century, or the “Anthropocene”, has given us an amazing quality of life, but not for everyone! We need to ensure that the next wave of innovation does not leave a large part of our society disenfranchised. We need to create pathways to climate resilience and prosperity for the underserved populations.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We want to invest in the next wave of innovations that create new inclusive market-based solutions that improve the quality of life of the poor and vulnerable populations
+ 
+Sure, humans will colonize Mars or move into artificial biomes and survive as a race, but we love the diversity and complexity of this planet and the rich cultures of all those who call it home and are not ready to think of Plan-B just yet.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
-
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima. Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et licet! Inserui quamvis Clymeni.Lorem ipsum dolor sit amet. Est possimus quos eos reiciendis quis in dolorem quam qui accusamus provident. Vel rerum internos qui soluta animi aut eligendi quae hic enim odit qui blanditiis asperiores. Totam odit ea saepe galisum eos obcaecati quaerat. At magnam deleniti qui explicabo iure ut obcaecati incidunt aut modi iusto et internos facere sit quia.
-
-Aut doloremque veniam rem asperiores excepturi qui ducimus nobis. Ad quam facere et ipsa dolores est tempora laudantium. Ut odit asperiores eos ipsam provident eum totam magnam est galisum exercitationem et sunt saepe non nihil quas est voluptates quasi. Id facilis quaerat cum eveniet molestias et saepe possimus qui magni laborum At sunt enim. In provident illum id placeat ratione non voluptatem expedita. Temporibus quam qui voluptate voluptatem ut excepturi autem. Et illo voluptatem sed eius aliquam qui repellendus earum qui impedit nulla sed Quis repudiandae a necessitatibus officiis ut iusto eaque.
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas, vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per tamen lentis spectat, Titania est animo.
 
 {% include cta.html %}
