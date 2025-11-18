@@ -19,7 +19,7 @@ promoted: true
 weight: 1
 layout: resource
 cta-heading: "Are you a startup?"
-cta-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
+cta-description: "Are you working on an innovation that will bring us in harmony with nature and preserves what precious diversity our planet has to offer for the future generations or an innovation that creates new inclusive market-based solutions that improve the quality of life of the poor and vulnerable populations, We want to hear from you!"
 cta-button-text: "Join Us Today"
 cta-button-url: "/resource/startups"
 questions:
