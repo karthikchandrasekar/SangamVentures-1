@@ -6,7 +6,7 @@ image: "images/portfolio/Promethean_Logo_inuse.svg"
 tagline: ""
 websiteurl: "https://www.prometheanenergy.com/"
 websitedomain: "prometheanenergy.com"
-category: "energy"
+category: "Just Energy Transition"
 weight: 2
 ---
 
