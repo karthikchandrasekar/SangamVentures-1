@@ -5,9 +5,7 @@ draft: false
 image: "images/team/Rahul Website Photo.png"
 jobtitle: "Finance Manager"
 linkedinurl: "https://www.linkedin.com/in/rahul-kumar-a127b7146/"
-twitterurl: " "
-twitterUsername: " "
-weight: 4
+weight: 6
 layout: team
 ---
 
