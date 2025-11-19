@@ -20,13 +20,5 @@ Voltrez is well-positioned to capitalize on this rising demand by developing inn
 
 <hr/><br>
 ### Blogs and Links
-
 #### <a href="https://voltreztech.com/technology.html" target="_blank" rel="noopener">Voltrez Anode Technology</a>
 
-
-
-#### Some Link heading
-[membra contractosque](#linkurl)
-
-#### Some Link heading
-[membra contractosque](#linkurl)
