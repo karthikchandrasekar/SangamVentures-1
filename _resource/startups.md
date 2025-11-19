@@ -13,7 +13,7 @@ quote-author-designation: "Founder Sangam Ventures"
 quote-author-image: "images/author/kc-circle.svg"
 author-linkedinurl: "https://www.linkedin.com/in/karthikchandrasekar/"
 category: "funding"
-show-faq: true
+show-faq: false
 show-cta: true
 promoted: true
 weight: 4
@@ -31,18 +31,23 @@ answers:
     - "We all came out to Montreux <br> On the Lake Geneva shoreline <br> To make records with a mobile <br> We didn't have much time <br> Frank Zappa and the Mothers <br> Were at the best place around <br> But some stupid with a flare gun <br> Burned the place to the ground! <br> -Deep Purple"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Are you a start-up?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+•	Are you a technical founder or founding team building a STEM-led technology to tackle climate change? 
+•	Are you building a solution something that has an immediate need or addresses a significant gap in the market today but not considered    “cool” or “hot” by the venture community? 
+•	Are you focused on product-market fit and meaningful value proposition to the customers you serve and healthy unit economics that you can scale?
+•	Are you taking a customer-driven contrarian view to building your venture i.e. are you driven by solving a problem for a customer base that you want to tackle over chasing valuations? 
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima. Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et licet! Inserui quamvis Clymeni.Lorem ipsum dolor sit amet. Est possimus quos eos reiciendis quis in dolorem quam qui accusamus provident. Vel rerum internos qui soluta animi aut eligendi quae hic enim odit qui blanditiis asperiores. Totam odit ea saepe galisum eos obcaecati quaerat. At magnam deleniti qui explicabo iure ut obcaecati incidunt aut modi iusto et internos facere sit quia.
+We would love to speak with you! Here is what you can expect from us:
 
-Aut doloremque veniam rem asperiores excepturi qui ducimus nobis. Ad quam facere et ipsa dolores est tempora laudantium. Ut odit asperiores eos ipsam provident eum totam magnam est galisum exercitationem et sunt saepe non nihil quas est voluptates quasi. Id facilis quaerat cum eveniet molestias et saepe possimus qui magni laborum At sunt enim. In provident illum id placeat ratione non voluptatem expedita. Temporibus quam qui voluptate voluptatem ut excepturi autem. Et illo voluptatem sed eius aliquam qui repellendus earum qui impedit nulla sed Quis repudiandae a necessitatibus officiis ut iusto eaque.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas, vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus parte](#dissipat) indignata supera.
+•	We are open to invest by ourselves. We are open to lead rounds if your capital requirement is higher than what we can invest. We also don’t care about who else is investing
+•	We are not looking for what is “hot”, we are looking for the founders with high conviction coming from deep technical competency and willingness to being contrarian
+•	We will want to speak to some (potential) customers who you are building the solution for and understand how close or far you are from product market fit.
+•	We want our founders to stay lean and focus on reducing technology and market risk by maniacally focusing on product development and customer validation till they reach product-market fit
+•	We want to learn what drives you and your vision for the company you want to build and will only invest when our thesis aligns with that vision, ask us and we will freely share our thesis in the sector or technology that you operate in
+
+
 
 Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per tamen lentis spectat, Titania est animo.
 
