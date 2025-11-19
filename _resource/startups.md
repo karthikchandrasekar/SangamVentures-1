@@ -33,22 +33,22 @@ answers:
 
 Are you a start-up?
 
-•	Are you a technical founder or founding team building a STEM-led technology to tackle climate change? 
-•	Are you building a solution something that has an immediate need or addresses a significant gap in the market today but not considered    “cool” or “hot” by the venture community? 
-•	Are you focused on product-market fit and meaningful value proposition to the customers you serve and healthy unit economics that you can scale?
-•	Are you taking a customer-driven contrarian view to building your venture i.e. are you driven by solving a problem for a customer base that you want to tackle over chasing valuations? 
+•	Are you a technical founder or founding team building a STEM-led technology to tackle climate change? </br>
+•	Are you building a solution something that has an immediate need or addresses a significant gap in the market today but not considered    “cool” or “hot” by the venture community? </br>
+•	Are you focused on product-market fit and meaningful value proposition to the customers you serve and healthy unit economics that you can scale? </br>
+•	Are you taking a customer-driven contrarian view to building your venture i.e. are you driven by solving a problem for a customer base that you want to tackle over chasing valuations? </br>
 
-We would love to speak with you! Here is what you can expect from us:
-
-
-•	We are open to invest by ourselves. We are open to lead rounds if your capital requirement is higher than what we can invest. We also don’t care about who else is investing
-•	We are not looking for what is “hot”, we are looking for the founders with high conviction coming from deep technical competency and willingness to being contrarian
-•	We will want to speak to some (potential) customers who you are building the solution for and understand how close or far you are from product market fit.
-•	We want our founders to stay lean and focus on reducing technology and market risk by maniacally focusing on product development and customer validation till they reach product-market fit
-•	We want to learn what drives you and your vision for the company you want to build and will only invest when our thesis aligns with that vision, ask us and we will freely share our thesis in the sector or technology that you operate in
+We would love to speak with you! </br>
+Here is what you can expect from us:
 
 
+•	We are open to invest by ourselves. We are open to lead rounds if your capital requirement is higher than what we can invest. We also don’t care about who else is investing </br>
+•	We are not looking for what is “hot”, we are looking for the founders with high conviction coming from deep technical competency and willingness to being contrarian </br>
+•	We will want to speak to some (potential) customers who you are building the solution for and understand how close or far you are from product market fit </br>
+•	We want our founders to stay lean and focus on reducing technology and market risk by maniacally focusing on product development and customer validation till they reach product-market fit </br>
+•	We want to learn what drives you and your vision for the company you want to build and will only invest when our thesis aligns with that vision, ask us and we will freely share our thesis in the sector or technology that you operate in </br>
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per tamen lentis spectat, Titania est animo.
+
+
 
 {% include faq.html %}
