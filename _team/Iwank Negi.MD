@@ -5,9 +5,7 @@ draft: false
 image: "images/team/Iwank Negi.png"
 jobtitle: "Impact Analyst"
 linkedinurl: "https://www.linkedin.com/in/iwank-negi-66999a11a/"
-twitterurl: " "
-twitterUsername: " "
-weight: 6
+weight: 5
 layout: team
 ---
 Iwank work focuses on the evaluation of the environmental consequences of investments. His commitment is towards the development of tools that can be used to monitor and report on the environmental impacts of early-stage start-ups, facilitating an informed decision-making culture within them.
