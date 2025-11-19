@@ -6,7 +6,7 @@ image: "images/portfolio/logo-carbon-masters.svg"
 tagline: ""
 websiteurl: "https://www.carbonlites.com/"
 websitedomain: "carbonlites.com"
-category: "waste-management"
+category: "Resource Productivity"
 weight: 6
 layout: portfolio
 ---
