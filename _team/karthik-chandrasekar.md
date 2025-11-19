@@ -5,8 +5,6 @@ draft: false
 image: "images/team/KC.jpg"
 jobtitle: "Managing Partner, CEO"
 linkedinurl: "https://www.linkedin.com/in/karthikchandrasekar/"
-twitterurl: "https://twitter.com/quickgunmurugun"
-twitterUsername: "@quickgunmurugun"
 weight: 1
 layout: team
 ---
