@@ -31,9 +31,6 @@ answers:
     - "We all came out to Montreux <br> On the Lake Geneva shoreline <br> To make records with a mobile <br> We didn't have much time <br> Frank Zappa and the Mothers <br> Were at the best place around <br> But some stupid with a flare gun <br> Burned the place to the ground! <br> -Deep Purple"
 ---
 
-<p style="font-size: 1.4rem; font-weight: 600; margin-top: 2rem;">
-Are you a start-up?</p>
-</p>
 
 <ul>
   <li>Are you a technical founder or founding team building a STEM-led technology to tackle climate change?</li>
