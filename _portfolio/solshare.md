@@ -21,8 +21,6 @@ The utility ecosystem is one of the hardest to disrupt even through there is a s
 
 What is the expectation from the investment - are we waiting for the global markets to mature?
 
-What is this? Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas, vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus parte](#dissipat) indignata supera.
-
 
 <hr/><br>
 ### Blogs and Links
