@@ -1,4 +1,43 @@
 .page-resource {
+  
+  .section{
+    margin-top: 30px;
+  }
+
+  .text-widget{
+    .overlineText{
+      text-transform: uppercase;
+    }
+    .content{
+      line-height: 25px;
+    }
+    h2{
+      margin-top: -10px;
+      font-weight: 600;
+    }
+    .col{
+      width: 33.33%;
+      float: left;
+      margin-top: -5px;
+      margin-bottom: 50px;
+      .sub-sectionTitle{
+        font-weight: 600;
+      }
+      .content{
+        text-align: justify;
+
+      }
+    }
+  }
+
+  .caption{
+    color: $accent;
+    display: inline;
+    font-size: 14px !important;
+    font-weight: 500;
+    font-style: italic;
+  }
+
   .coverImage {
     margin-top: 50px;
     min-height: 400px;
@@ -48,8 +87,9 @@
   }
 
   .title {
-    text-decoration: underline;
+    text-decoration: none;
     text-decoration-color: #00aabdb7;
+    padding-bottom: 10px;
   }
 
   .content {
@@ -87,10 +127,12 @@
 
   // FAQ Accordion
   .accord {
-    margin-top: 30px;
+    margin-top: 20px;
     margin-left: -15px;
+    margin-bottom: 40px;
   }
 
+  //For faq block 1
   button.accordion {
     width: 100%;
     background-color: $white;
@@ -110,8 +152,6 @@
   }
 
   button.accordion.is-open:after {
-    // content: '\f151';
-    // font-family: "Font Awesome 5 Free";
     .fas {
       display: none;
     }
@@ -123,6 +163,40 @@
     background: -webkit-linear-gradient(20deg, rgba(0, 73, 112, 1) 0%, rgba(0, 171, 189, 1) 100%);
     color: $white;
   }
+  //----
+  // For faq block 2
+  button.accordion2 {
+    width: 100%;
+    background-color: $white;
+    outline: none;
+    border-width: 0px 0px 1px 0px; //top right bottom left;
+    border-bottom-color: rgba(51, 51, 51, 0.116) !important;
+    text-align: left;
+    padding: 15px 20px;
+    font-size: 18px;
+    color: rgb(62, 63, 63);
+    cursor: pointer;
+    transition: background-color 0.2s linear;
+  }
+  button.accordion2:after {
+    font-size: 18px;
+    float: right;
+  }
+
+  button.accordion2.is-open:after {
+    .fas {
+      display: none;
+    }
+  }
+
+  button.accordion2:hover,
+  button.accordion2.is-open {
+    background-color: $primary;
+    background: -webkit-linear-gradient(20deg, rgba(0, 73, 112, 1) 0%, rgba(0, 171, 189, 1) 100%);
+    color: $white;
+  }
+  //---
+
 
   .accordion-content {
     background-color: white;
@@ -135,6 +209,11 @@
     padding-top: 20px;
     font-size: 16px !important;
   }
+  
+  .faq-image[src=""] {
+    display:none;
+  }
+
   .fas {
     margin-left: -10px;
     padding-right: 20px;
@@ -143,6 +222,19 @@
 
   //mobile responsiveness
   @media screen and (max-width: 600px) {
+
+    .text-widget{
+      margin-bottom: 20px !important;
+      .col{
+        width: 100% !important;
+        margin-bottom: 20px !important;
+        flex-basis: auto;
+      }
+    }
+    .caption{
+      display: block;
+    }
+
 
     .coverImage{
 
@@ -169,6 +261,25 @@
       margin-bottom: 60px;
       height: auto;
       padding-bottom: 40px;
+    }
+
+  }
+
+  //tablet responsiveness 
+  @media screen and (min-width: 768px) and (max-width: 1180px) {
+
+    .cta-box{
+      margin-bottom: 70px !important;
+    }
+    
+    .caption{
+      display: block !important;
+    }
+    .text-widget{
+      .content{
+        text-align: left !important;
+      }
+
     }
 
   }

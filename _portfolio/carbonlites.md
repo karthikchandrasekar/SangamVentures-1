@@ -1,32 +1,34 @@
 ---
-title: "Carbonlites"
+title: "Carbon Masters"
 date: 2018-12-20T13:44:30+10:00
 draft: false
-image: "images/portfolio/carbonlites.svg"
+image: "images/portfolio/logo-carbon-masters.svg"
 tagline: ""
 websiteurl: "https://www.carbonlites.com/"
 websitedomain: "carbonlites.com"
-category: "waste-management"
+category: "Resource Productivity"
 weight: 6
 layout: portfolio
 ---
 
-Carbon Masters has developed a circular business model for bottling & sale of biogas for kitchens, automobiles & agro-industries reducing harmful Methane & CO2 emissions.
+Carbon Masters is a climate tech company , established first in the UK in 2009 and then in India in 2012. Their mission is to reduce carbon emissions by replacing fossil fuels consumption with innovative, clean energy, low carbon solutions & products.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+They have pioneered the conversion of food and the organic fraction of municipal solid waste (OFMSW) to produce two climate-friendly products, sold and marketed under the brand name Carbonlites.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Carbonlites Bio-Enriched Organic Manure and Carbonlites CBG, both mitigate carbon emissions and reduce the risks of climate change.
 
-Aut doloremque veniam rem asperiores excepturi qui ducimus nobis. Ad quam facere et ipsa dolores est tempora laudantium. Ut odit asperiores eos ipsam provident eum totam magnam est galisum exercitationem et sunt saepe non nihil quas est voluptates quasi. Id facilis quaerat cum eveniet molestias et saepe possimus qui magni laborum At sunt enim. In provident illum id placeat ratione non voluptatem expedita. Temporibus quam qui voluptate voluptatem ut excepturi autem. Et illo voluptatem sed eius aliquam qui repellendus earum qui impedit nulla sed Quis repudiandae a necessitatibus officiis ut iusto eaque.
+With the unprecedented rise in fossil fuel prices across the country and the world only a decade away from avoiding the worst consequences of climate change, there is now an even greater need for low carbon solutions.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas, vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus parte](#dissipat) indignata supera.
+Carbonlites has proven applications in both energy and agriculture, two of the largest GHG emitting sectors in the country at 68.7% and 19.6%.
+
+It can displace LPG/ diesel in cooking, heating and transport, and energy intensive chemical fertilisers in agriculture/horticulture.
 
 
 <hr/><br>
 ### Blogs and Links
 
-#### Some Link heading
-[membra contractosque](#linkurl)
+#### <a href="https://carbonmasters.co.uk/" target="_blank" rel="noopener">Carbon Masters Website</a>
+
 
 #### Some Link heading
 [membra contractosque](#linkurl)

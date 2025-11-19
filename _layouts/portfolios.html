@@ -15,9 +15,9 @@ bodyClass: "page-portfolios"
     <div class="row portfolio-filters" >
         <div class="button-group filter-button-group justify-content-center" id="filter-btns">
             <a class="filter-btn btn-sm btn-primary active" data-target="all">All</a>
-            <a class="filter-btn btn-sm btn-primary" data-target="energy">Energy</a>
-            <a class="filter-btn btn-sm btn-primary" data-target="agriculture">Agriculture</a>
-            <a class="filter-btn btn-sm btn-primary" data-target="waste-management">Waste Management</a>
+            <a class="filter-btn btn-sm btn-primary" data-target="Just Energy Transition">Just Energy Transition</a>
+            <a class="filter-btn btn-sm btn-primary" data-target="Resource Productivity">Resource Productivity</a>
+            <a class="filter-btn btn-sm btn-primary" data-target="Regenerative Food Systems">Regenerative Food Systems</a>
         </div>
     </div>
 
@@ -29,7 +29,12 @@ bodyClass: "page-portfolios"
             <div class="col-lg-4 mb-4 filter-column" data-id="{{ portfolio.category }}">
                 {% if portfolio.image %}
                 <div class="portfolio-image ">
-                    <a href="{{ portfolio.url | relative_url }}" class="portfolio-link">
+                    {% if portfolio.websiteurl %}
+                    {% assign portfolio_href = portfolio.websiteurl %}
+                    {% else %}
+                    {% assign portfolio_href = portfolio.url | relative_url %}
+                    {% endif %}
+                    <a href="{{ portfolio_href }}" class="portfolio-link" {% if portfolio.websiteurl %}target="_blank" rel="noopener"{% endif %}>
                         <img width="400" height="200" alt="{{ portfolio.title }}" class="img-fluid"
                             src="{{ portfolio.image | relative_url }}" /></a>
                 </div>

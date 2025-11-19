@@ -2,12 +2,10 @@
 title: "Deepika Sood"
 date: 2018-12-20T13:44:23+10:00
 draft: false
-image: "images/team/Deepika Photo.png"
+image: "images/team/Deepika Photo Website.png"
 jobtitle: "Partner, CFAO"
 linkedinurl: "https://www.linkedin.com/in/deepika-sood/"
-twitterurl: ""
-twitterUsername: ""
-weight: 3
+weight: 2
 layout: team
 ---
 

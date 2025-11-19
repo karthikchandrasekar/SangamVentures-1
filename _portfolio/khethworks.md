@@ -6,7 +6,7 @@ image: "images/portfolio/khethworks.svg"
 tagline: ""
 websiteurl: "https://www.khethworks.com/"
 websitedomain: "khethworks.com"
-category: "agriculture"
+category: "Regenerative Food Systems"
 weight: 5
 layout: portfolio
 ---

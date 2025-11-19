@@ -2,6 +2,10 @@
 title: "Become an investor for one of our ventures"
 date: 2018-11-19T10:47:58+10:00
 draft: false
+show-page: true
+show-faq: true
+show-cta: false
+show-cover-image: false
 image: "images/resource/icon-5.svg"
 cover-image: "images/cover/green-field.jpg"
 headline: "Are you an investor?"
@@ -11,17 +15,12 @@ quote-author-designation: "Founder Sangam Ventures"
 quote-author-image: "images/author/kc-circle.svg"
 author-linkedinurl: "https://www.linkedin.com/in/karthikchandrasekar/"
 category: "funding"
-external-article-url: ""
-external-article-name: ""
-show-faq: true
-show-cta: true
 promoted: true
 weight: 5
 cta-heading: "Are you a startup?"
 cta-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
 cta-button-text: "Join Us Today"
 cta-button-url: "/resource/startups"
-cta-image: "images/cta/cta-how.jpg"
 questions:
     - "Imagine"
     - "Vienna"
@@ -32,24 +31,11 @@ answers:
     - "We all came out to Montreux <br> On the Lake Geneva shoreline <br> To make records with a mobile <br> We didn't have much time <br> Frank Zappa and the Mothers <br> Were at the best place around <br> But some stupid with a flare gun <br> Burned the place to the ground! <br> -Deep Purple"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Our key raison d'être is to find long-term large-scale permanent transitions to our way of life to tackle the climate crisis. We only invest in enterprises that actively contribute new solutions to tackling the climate crisis and entrepreneurs who are working on some of these hard challenges that are not finding support from mainstream investors. 
+•	If you are here because you are disillusioned by what the traditional venture capital firms have to offer as climate investments, we would love to speak with you.
+•	If you have a desire to support STEM invention and prosperity but not at the cost of nature or the suffering of the marginalized, we would love to speak with you.
+•	If you are a technocrat, who has been there and created an amazing engineering business, providing employment opportunities and investing in R&D, we would love for us and our entrepreneurs to benefit from your experience beyond capital, please do reach out to us!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima. Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et licet! Inserui quamvis Clymeni.Lorem ipsum dolor sit amet. Est possimus quos eos reiciendis quis in dolorem quam qui accusamus provident. Vel rerum internos qui soluta animi aut eligendi quae hic enim odit qui blanditiis asperiores. Totam odit ea saepe galisum eos obcaecati quaerat. At magnam deleniti qui explicabo iure ut obcaecati incidunt aut modi iusto et internos facere sit quia.
-
-![Investors](/images/cover/green-field.jpg)
-
-Aut doloremque veniam rem asperiores excepturi qui ducimus nobis. Ad quam facere et ipsa dolores est tempora laudantium. Ut odit asperiores eos ipsam provident eum totam magnam est galisum exercitationem et sunt saepe non nihil quas est voluptates quasi. Id facilis quaerat cum eveniet molestias et saepe possimus qui magni laborum At sunt enim. In provident illum id placeat ratione non voluptatem expedita. Temporibus quam qui voluptate voluptatem ut excepturi autem. Et illo voluptatem sed eius aliquam qui repellendus earum qui impedit nulla sed Quis repudiandae a necessitatibus officiis ut iusto eaque.
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas, vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per tamen lentis spectat, Titania est animo.
-
-{% capture section2 %}
-<!-- If you want to add any text beneath the cta box and above FAQ heading, add here. -->
-{% endcapture %}
-{% include cta-faq.html %}
+{% include faq.html %}
+{% include cta.html %}
