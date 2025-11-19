@@ -6,7 +6,7 @@ image: "images/portfolio/CellProp_Logo.svg"
 tagline: " "
 websiteurl: "http://www.cellpropulsion.com/"
 websitedomain: "cellpropulsion.com"
-category: "energy"
+category: "Just Energy Transition"
 weight: 10
 layout: portfolio
 ---
