@@ -29,7 +29,12 @@ bodyClass: "page-portfolios"
             <div class="col-lg-4 mb-4 filter-column" data-id="{{ portfolio.category }}">
                 {% if portfolio.image %}
                 <div class="portfolio-image ">
-                    <a href="{{ portfolio.url | relative_url }}" class="portfolio-link">
+                    {% if portfolio.websiteurl %}
+                    {% assign portfolio_href = portfolio.websiteurl %}
+                    {% else %}
+                    {% assign portfolio_href = portfolio.url | relative_url %}
+                    {% endif %}
+                    <a href="{{ portfolio_href }}" class="portfolio-link" {% if portfolio.websiteurl %}target="_blank" rel="noopener"{% endif %}>
                         <img width="400" height="200" alt="{{ portfolio.title }}" class="img-fluid"
                             src="{{ portfolio.image | relative_url }}" /></a>
                 </div>
