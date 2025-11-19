@@ -33,10 +33,10 @@ answers:
 
 
 <ul>
-  <li>Are you a technical founder or founding team building a STEM-led technology to tackle climate change?</li>
-  <li>Are you building a solution that has an immediate need or addresses a significant gap in the market today but not considered “cool” or “hot” by the venture community?</li>
+  <li>Are you a technical founder or founding team building a STEM-led technology to tackle climate change? </li>
+  <li>Are you building a solution something that has an immediate need or addresses a significant gap in the market today but not considered “cool” or “hot” by the venture community?</li>
   <li>Are you focused on product-market fit and meaningful value proposition to the customers you serve and healthy unit economics that you can scale?</li>
-  <li>Are you taking a customer-driven contrarian view to building your venture i.e. solving a real customer problem rather than chasing valuations?</li>
+  <li>Are you taking a customer-driven contrarian view to building your venture i.e. are you driven by solving a problem for a customer base that you want to tackle over chasing valuations?</li>
 </ul>
 
 <p style="font-size: 1.4rem; font-weight: 600; margin-top: 2rem;">
@@ -45,11 +45,11 @@ answers:
 </p>
 
 <ul>
-  <li>We are open to invest by ourselves. We can also lead rounds even if your capital requirement is higher than what we can invest.</li>
-  <li>We don’t care about who else is investing — we look for founders with high conviction, deep technical competency, and willingness to be contrarian.</li>
-  <li>We will want to speak to some (potential) customers to understand how close or far you are from product-market fit.</li>
-  <li>We want our founders to stay lean and reduce technology + market risk by focusing intensely on product development and customer validation.</li>
-  <li>We want to learn what drives you and your long-term vision. We only invest when your vision aligns with our thesis — and we will openly share our thesis in your sector.</li>
+  <li>We are open to invest by ourselves. We are open to lead rounds if your capital requirement is higher than what we can invest. We also don’t care about who else is investing</li>
+  <li>We are not looking for what is “hot”, we are looking for the founders with high conviction coming from deep technical competency and willingness to being contrarian</li>
+  <li>We will want to speak to some (potential) customers who you are building the solution for and understand how close or far you are from product market fit</li>
+  <li>We want our founders to stay lean and focus on reducing technology and market risk by maniacally focusing on product development and customer validation till they reach product-market fit</li>
+  <li>We want to learn what drives you and your vision for the company you want to build and will only invest when our thesis aligns with that vision, ask us and we will freely share our thesis in the sector or technology that you operate in</li>
 </ul>
 
 
