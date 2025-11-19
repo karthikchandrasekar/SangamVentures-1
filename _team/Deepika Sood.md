@@ -5,7 +5,7 @@ draft: false
 image: "images/team/Deepika Photo Website.png"
 jobtitle: "Partner, CFAO"
 linkedinurl: "https://www.linkedin.com/in/deepika-sood/"
-weight: 3
+weight: 2
 layout: team
 ---
 
