@@ -6,7 +6,7 @@ image: "images/portfolio/thermistance_card.svg"
 tagline: ""
 websiteurl: "https://www.thermistance.com/"
 websitedomain: "thermistance.com"
-category: "energy"
+category: "Just Energy Transition"
 weight: 9
 layout: portfolio
 ---
