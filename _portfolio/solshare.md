@@ -13,13 +13,15 @@ layout: portfolio
 
 SolShare is leading the Energiewende by developing services backbone for the future of utilities.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+We invested in SolShare to work with them to create a more decentralized energy where shared infrastructure democratizes access to energy for all. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+A big part of our investment thesis is the rise of the prosumer and the creation of more digital public infrastructure.
 
-Aut doloremque veniam rem asperiores excepturi qui ducimus nobis. Ad quam facere et ipsa dolores est tempora laudantium. Ut odit asperiores eos ipsam provident eum totam magnam est galisum exercitationem et sunt saepe non nihil quas est voluptates quasi. Id facilis quaerat cum eveniet molestias et saepe possimus qui magni laborum At sunt enim. In provident illum id placeat ratione non voluptatem expedita. Temporibus quam qui voluptate voluptatem ut excepturi autem. Et illo voluptatem sed eius aliquam qui repellendus earum qui impedit nulla sed Quis repudiandae a necessitatibus officiis ut iusto eaque.
+The utility ecosystem is one of the hardest to disrupt even through there is a significant opportunity to provide a better customer experperience!
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas, vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus parte](#dissipat) indignata supera.
+What is the expectation from the investment - are we waiting for the global markets to mature?
+
+What is this? Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas, vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus parte](#dissipat) indignata supera.
 
 
 <hr/><br>
