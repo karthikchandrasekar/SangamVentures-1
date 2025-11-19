@@ -13,7 +13,7 @@ quote-author-designation: " "
 quote-author-image: " "
 author-linkedinurl: " "
 category: "about"
-show-faq: true
+show-faq: false
 show-cta: true
 promoted: true
 weight: 3
