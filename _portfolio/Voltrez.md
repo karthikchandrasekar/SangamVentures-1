@@ -6,7 +6,7 @@ image: "images/portfolio/voltrez_card.svg"
 tagline: "Making You Safer"
 websiteurl: "https://voltreztech.com//"
 websitedomain: "VoltrezTech.com"
-category: "energy"
+category: "Just Energy Transition"
 weight: 7
 layout: portfolio
 ---
