@@ -13,7 +13,7 @@ quote-author-designation: "Founder Sangam Ventures"
 quote-author-image: "images/author/kc-circle.svg"
 author-linkedinurl: "https://www.linkedin.com/in/karthikchandrasekar/"
 category: "about"
-show-faq: true
+show-faq: false
 show-cta: true
 promoted: true
 weight: 2
