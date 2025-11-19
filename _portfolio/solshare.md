@@ -6,7 +6,7 @@ image: "images/portfolio/solshare.svg"
 tagline: ""
 websiteurl: "https://me-solshare.com/"
 websitedomain: "me-solshare.com"
-category: "energy"
+category: "Just Energy Transition"
 weight: 3
 layout: portfolio
 ---
