@@ -6,7 +6,7 @@ image: "images/portfolio/pratyaksha_card_balanced.svg"
 tagline: ""
 websiteurl: ""
 websitedomain: ""
-category: "agriculture"
+category: "Regenerative Food Systems"
 weight: 8
 layout: portfolio
 ---
