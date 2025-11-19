@@ -5,9 +5,7 @@ draft: false
 image: "images/team/Rehya Sharma.png"
 jobtitle: "Analyst - COO's Office"
 linkedinurl: "https://www.linkedin.com/in/rehya-sharma-125008208/"
-twitterurl: " "
-twitterUsername: " "
-weight: 6
+weight: 7
 layout: team
 ---
 Rehya supports the fund’s finance and operations through the COO’s office, working across reporting, compliance, and process improvement to strengthen the firm’s operating backbone. 
