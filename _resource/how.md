@@ -8,12 +8,12 @@ image: "images/resource/icon-3.svg"
 cover-image: "images/cover/green-field.jpg"
 headline: "Article Category - How?"
 cover-quote: " "
-quote-author: ""
+quote-author: " "
 quote-author-designation: " "
 quote-author-image: " "
 author-linkedinurl: " "
 category: "about"
-show-faq: false
+show-faq: true
 show-cta: true
 promoted: true
 weight: 3
