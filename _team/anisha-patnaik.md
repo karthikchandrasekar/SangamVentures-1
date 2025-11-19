@@ -5,10 +5,7 @@ draft: false
 image: "images/team/Anisha photo.jpeg"
 jobtitle: "Venture Partner, Legal Counsel"
 linkedinurl: "https://www.linkedin.com/in/anishapatnaik/"
-twitterurl: "https://twitter.com/AnishaPatnaik"
-twitterUsername: "@AnishaPatnaik"
-linkedinurl: ""
-weight: 2
+weight: 3
 layout: team
 ---
 
