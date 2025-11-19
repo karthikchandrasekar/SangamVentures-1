@@ -6,7 +6,7 @@ image: "images/portfolio/delectrik_logo_inuse.svg"
 tagline: ""
 websiteurl: "https://delectrik.com/"
 websitedomain: "delectrik.com"
-category: "energy"
+category: "Just Energy Transition"
 weight: 4
 layout: portfolio
 ---
