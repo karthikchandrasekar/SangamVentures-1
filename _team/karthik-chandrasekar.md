@@ -11,7 +11,7 @@ weight: 1
 layout: team
 ---
 
-Karthik founded Sangam with support from the Shell Foundation and USAID to find a new model to provide early-stage support for climate change pioneers. he has led investments in 9 clean technology start-ups bringing game-changing technologies to the market. He is also the founder & director of AIC-Sangam, India’s first cleantech Incubator set up in partnership with AIM, NITI Aayog, Government of India.  
+Karthik founded Sangam with support from the Shell Foundation and USAID to find a new model to provide early-stage support for climate change pioneers. He is also the founder & director of AIC-Sangam, India’s first cleantech Incubator set up in partnership with AIM, NITI Aayog, Government of India.  
 
 Prior to Sangam, Karthik led cleantech investments in India for Acumen and started his India investment journey with TVS Capital and prior experience includes stints at Goldman Sachs, Merrill Lynch, and HSBC across New York and London.  
 
@@ -22,8 +22,7 @@ Karthik is a morning person, enjoys the outdoors, experimenting with food, and c
 {% include team-socials.html %}
 
 <hr/>
-### Blogs and Links
-
+### Blogs and Links <br>
 #### [The Valuation Game...What Does It Mean Exactly?](https://www.linkedin.com/pulse/valuation-gamewhat-does-mean-exactly-karthik-chandrasekar/)
-[LinkedIn Blog]
+
 
