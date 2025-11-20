@@ -40,7 +40,7 @@ answers:
       and a network of incubators and accelerators that we work closely with."
 ---
 
-<p>Our key raison d'être is to find long-term large-scale permanent transitions to our way of life to tackle the climate crisis. We only invest in enterprises that actively contribute new solutions to tackling the climate crisis and entrepreneurs who are working on some of these hard challenges that are not finding support from mainstream investors.</p>
+<p>Our raison d'être is to find long-term large-scale permanent transitions to our way of life to tackle the climate crisis. We only invest in enterprises that actively contribute new solutions to tackling the climate crisis and entrepreneurs who are working on some of these hard challenges that are not finding support from mainstream investors.</p>
 
 <ul>
   <li>If you are here because you are disillusioned by what the traditional venture capital firms have to offer as climate investments, we would love to speak with you.</li>
