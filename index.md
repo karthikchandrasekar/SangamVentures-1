@@ -1,7 +1,7 @@
 ---
-title: Sangam Ventures
+title: Sangam 
 layout: home
-description: Sangam Ventures is a seed and early stage venture fund that invests to improve access to sustainable energy and resource productivity solutions for the underserved in India that can lead to inclusive development and creation of communities that are resilient to climate change.
+description: Sangam is a seed and early stage venture fund that invests to improve access to sustainable energy and resource productivity solutions for the underserved in India that can lead to inclusive development and creation of communities that are resilient to climate change.
 intro_image: "images/illustrations/hero-image.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
