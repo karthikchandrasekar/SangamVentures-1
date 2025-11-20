@@ -7,11 +7,11 @@ show-cover-image: true
 image: "images/resource/icon-3.svg"
 cover-image: "images/cover/green-field.jpg"
 headline: "How?"
-cover-quote: " "
-quote-author: " "
-quote-author-designation: " "
-quote-author-image: " "
-author-linkedinurl: " "
+cover-quote: 
+quote-author: 
+quote-author-designation: 
+quote-author-image: 
+author-linkedinurl: 
 category: "about"
 show-faq: false
 show-cta: true
