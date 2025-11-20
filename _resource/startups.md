@@ -38,12 +38,9 @@ answers:
   <li>Are you focused on product-market fit and meaningful value proposition to the customers you serve and healthy unit economics that you can scale?</li>
   <li>Are you taking a customer-driven contrarian view to building your venture i.e. are you driven by solving a problem for a customer base that you want to tackle over chasing valuations?</li>
 </ul>
-
 <p style="font-size:1rem; font-weight:400; margin-left:1.2rem; margin-top:1rem; line-height:1.6;">
   We would love to speak with you!
 </p>
-
-
 <p style="font-size: 1.4rem; font-weight: 600; margin-top: 2rem;">
   <br>
   Here is what you can expect from us:
