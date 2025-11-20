@@ -7,7 +7,7 @@ tagline: ""
 websiteurl: "https://www.prometheanenergy.com/"
 websitedomain: "prometheanenergy.com"
 category: "Just Energy Transition"
-weight: 2
+weight: 3
 ---
 
 Energy efficiency is a 3x better investment for increasing overall energy availability that energy generation.
