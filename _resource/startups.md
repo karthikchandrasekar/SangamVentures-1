@@ -48,7 +48,6 @@ answers:
   <br>
   Here is what you can expect from us:
 </p>
-
 <ul>
   <li>We are open to invest by ourselves. We are open to lead rounds if your capital requirement is higher than what we can invest. We also don’t care about who else is investing</li>
   <li>We are not looking for what is “hot”, we are looking for the founders with high conviction coming from deep technical competency and willingness to being contrarian</li>
