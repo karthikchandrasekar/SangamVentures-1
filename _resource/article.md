@@ -3,7 +3,7 @@ title: "Leveraging the power of innvoation in clean-tech"
 date: 2018-11-19T10:47:58+10:00
 weight: 6
 draft: false
-promoted: true
+promoted: false
 show-page: true
 show-cover-image: true
 show-faq: true
