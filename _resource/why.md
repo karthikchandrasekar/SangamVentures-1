@@ -33,13 +33,11 @@ answers:
     - "We all came out to Montreux <br> On the Lake Geneva shoreline <br> To make records with a mobile <br> We didn't have much time <br> Frank Zappa and the Mothers <br> Were at the best place around <br> But some stupid with a flare gun <br> Burned the place to the ground! <br> -Deep Purple"
 ---
 
-Climate Change is the greatest and most urgent global challenge plaguing our generation, and it affects the poor, the vulnerable and the commons disproportionately. Climate change is primarily anthropogenic (driven by human activity). We, as a civilization, are reluctant to wean ourselves off our climate altering habits and are rapidly disassociating from nature as our planet hurtles towards biodiversity loss and ecological collapse. 
-We want to invest in the next wave of innovations brings us in harmony with nature and preserves what precious diversity our planet has to offer for the future generations.
-The technological progress over the last century, or the “Anthropocene”, has given us an amazing quality of life, but not for everyone! We need to ensure that the next wave of innovation does not leave a large part of our society disenfranchised. We need to create pathways to climate resilience and prosperity for the underserved populations.
-
-We want to invest in the next wave of innovations that create new inclusive market-based solutions that improve the quality of life of the poor and vulnerable populations
- 
-Sure, humans will colonize Mars or move into artificial biomes and survive as a race, but we love the diversity and complexity of this planet and the rich cultures of all those who call it home and are not ready to think of Plan-B just yet.
+<p>Climate Change is the greatest and most urgent global challenge plaguing our generation, and it affects the poor, the vulnerable and the commons disproportionately. Climate change is primarily anthropogenic (driven by human activity). We, as a civilization, are reluctant to wean ourselves off our climate altering habits and are rapidly disassociating from nature as our planet hurtles towards biodiversity loss and ecological collapse</p>
+<p><i>We want to invest in the next wave of innovations brings us in harmony with nature and preserves what precious diversity our planet has to offer for the future generations</i> </p>
+<p>The technological progress over the last century, or the “Anthropocene”, has given us an amazing quality of life, but not for everyone! We need to ensure that the next wave of innovation does not leave a large part of our society disenfranchised. We need to create pathways to climate resilience and prosperity for the underserved populations</p>
+<p>We want to invest in the next wave of innovations that create new inclusive market-based solutions that improve the quality of life of the poor and vulnerable populations</p>
+<p>Sure, humans will colonize Mars or move into artificial biomes and survive as a race, but we love the diversity and complexity of this planet and the rich cultures of all those who call it home and are not ready to think of Plan-B just yet</p>
 
 
 {% include cta.html %}
