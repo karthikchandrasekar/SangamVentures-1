@@ -36,7 +36,7 @@ answers:
 <p>Climate Change is the greatest and most urgent global challenge plaguing our generation, and it affects the poor, the vulnerable and the commons disproportionately. Climate change is primarily anthropogenic (driven by human activity). We, as a civilization, are reluctant to wean ourselves off our climate altering habits and are rapidly disassociating from nature as our planet hurtles towards biodiversity loss and ecological collapse</p>
 <p><i>We want to invest in the next wave of innovations brings us in harmony with nature and preserves what precious diversity our planet has to offer for the future generations</i> </p>
 <p>The technological progress over the last century, or the “Anthropocene”, has given us an amazing quality of life, but not for everyone! We need to ensure that the next wave of innovation does not leave a large part of our society disenfranchised. We need to create pathways to climate resilience and prosperity for the underserved populations</p>
-<p>We want to invest in the next wave of innovations that create new inclusive market-based solutions that improve the quality of life of the poor and vulnerable populations</p>
+<p><i>We want to invest in the next wave of innovations that create new inclusive market-based solutions that improve the quality of life of the poor and vulnerable populations</i></p>
 <p>Sure, humans will colonize Mars or move into artificial biomes and survive as a race, but we love the diversity and complexity of this planet and the rich cultures of all those who call it home and are not ready to think of Plan-B just yet</p>
 
 
