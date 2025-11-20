@@ -6,7 +6,7 @@ show-page: true
 show-cover-image: true
 image: "images/resource/icon.svg"
 cover-image: "images/cover/green-field.jpg"
-headline: "Article Category - What?"
+headline: "What?"
 cover-quote: 
 quote-author: 
 quote-author-designation: 
