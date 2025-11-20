@@ -7,7 +7,7 @@ tagline: ""
 websiteurl: "https://www.thermistance.com/"
 websitedomain: "thermistance.com"
 category: "Just Energy Transition"
-weight: 9
+weight: 1
 layout: portfolio
 ---
 
