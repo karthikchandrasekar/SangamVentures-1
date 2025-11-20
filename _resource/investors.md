@@ -31,7 +31,7 @@ answers:
    <h3>The streetlight effect, or the drunkard's search principle</h3>
    <img src='{{ \"/images/illustrations/streetlighteffect.png\" | relative_url }}' 
         alt='Streetlight Effect Illustration' 
-        style='max-width:100%; height:auto; display:block; margin-top:1rem;'"
+        style='max-width:100%; height:auto; display:block; margin-top:1rem;'>"
     - "We all came out to Montreux <br> On the Lake Geneva shoreline <br> To make records with a mobile <br> We didn't have much time <br> Frank Zappa and the Mothers <br> Were at the best place around <br> But some stupid with a flare gun <br> Burned the place to the ground! <br> -Deep Purple"
 ---
 
