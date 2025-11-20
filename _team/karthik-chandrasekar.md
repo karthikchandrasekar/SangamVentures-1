@@ -21,21 +21,25 @@ Karthik is a morning person, enjoys the outdoors, experimenting with food, and c
 
 <hr/>
 ### Blogs and Links
-<h4>
-  <a href="https://www.linkedin.com/pulse/valuation-gamewhat-does-mean-exactly-karthik-chandrasekar/" 
-     target="_blank" 
-     rel="noopener">
-     The Valuation Game...What Does It Mean Exactly?
-  </a>
-</h4>
 
-<h4>
-  <a href="https://medium.com/@kchandrasekar/catapulting-startups-into-scale-mode-or-the-answer-to-the-question-do-you-have-revenues-524f428ff305"
-     target="_blank"
-     rel="noopener">
-    Catapulting start-ups into scale mode — the answer to the question “Do you have revenues?”
-  </a>
-</h4>
+<div style="text-decoration: none;">
+  <h4 style="text-decoration: none;">
+    <a href="https://www.linkedin.com/pulse/valuation-gamewhat-does-mean-exactly-karthik-chandrasekar/" 
+       target="_blank" 
+       rel="noopener"
+       style="text-decoration: none;">
+       The Valuation Game...What Does It Mean Exactly?
+    </a>
+  </h4>
 
+  <h4 style="text-decoration: none;">
+    <a href="https://medium.com/@kchandrasekar/catapulting-startups-into-scale-mode-or-the-answer-to-the-question-do-you-have-revenues-524f428ff305"
+       target="_blank"
+       rel="noopener"
+       style="text-decoration: none;">
+      Catapulting start-ups into scale mode — the answer to the question “Do you have revenues?”
+    </a>
+  </h4>
+</div>
 
 
