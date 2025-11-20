@@ -7,7 +7,7 @@ tagline: ""
 websiteurl: "https://me-solshare.com/"
 websitedomain: "me-solshare.com"
 category: "Just Energy Transition"
-weight: 3
+weight: 6
 layout: portfolio
 ---
 
