@@ -7,11 +7,13 @@ show-cover-image: true
 image: "images/resource/icon-2.svg"
 cover-image: "images/cover/green-field.jpg"
 headline: "Why"
+<!-- Commenting out the cover quote
 cover-quote: "The Clean Power Plan is a bold step not just in lowering carbon emissions, but also in creating the clean energy jobs of the future."
 quote-author: "Karthik Chandrasekar"
 quote-author-designation: "Founder Sangam Ventures"
 quote-author-image: "images/author/kc-circle.svg"
-author-linkedinurl: "https://www.linkedin.com/in/karthikchandrasekar/"
+author-linkedinurl: "https://www.linkedin.com/in/karthikchandrasekar/" 
+-->
 category: "about"
 show-faq: true
 show-cta: true
