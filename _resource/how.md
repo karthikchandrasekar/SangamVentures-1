@@ -17,10 +17,10 @@ show-faq: false
 show-cta: true
 promoted: true
 weight: 3
-cta-heading: "Are you a startup?"
-cta-description: "Are you working on an innovation that will bring us in harmony with nature and preserves what precious diversity our planet has to offer for the future generations or an innovation that creates new inclusive market-based solutions that improve the quality of life of the poor and vulnerable populations, We want to hear from you!"
-cta-button-text: "Join Us Today"
-cta-button-url: "/resource/startups"
+cta-heading: "Looking to Collaborate?"
+cta-description: "If you are a climate tech innovation ecosystem leader in your local economy or an innovator building a climate tech start-up with global inclusive impact potential, please do reach out to us. We would love to learn from your experiences and explore opportunities to collaborate"
+cta-button-text: "Reach out to us on prospect@sangam.vc"
+cta-button-url: 
 questions:
     - "Imagine"
     - "Vienna"
@@ -41,9 +41,5 @@ answers:
 <p>There are two key elements we look to promote in our portfolio to ensure that the leaders of tomorrow are truly exceptional</p>
 1.	Diversity - we need all hands on deck building the new green innovation economy! Women represent the biggest underserved demographic globally and are disproportionately impacted by the adverse effects of climate change. As a fund focused on inclusive climate change impact, gender diversity then becomes a critical component of our strategy to understand our target consumers and the markets we are looking to disrupt. Not taking a gendered lens when sourcing and evaluating investment opportunities could lead to the overlooking of a significant opportunity for incremental investment returns and achieving climate justice. Additionally, bringing diversity into the cleantech and the overall Science, Technology, Engineering and Mathematics (“STEM”) industry is critical to attract new talent and grow the sector. According to a study by McKinsey, narrowing the gender gap in STEM can lead to an increase of US$ 12-28 trillion in the global economy. Digging a little deeper into STEM, 43% of STEM graduates in India are women, the highest in the world. Sadly only 14% of women are employed in STEM . This attrition of STEM talent from the economy stems from unconscious gender biases, the perceived male-dominated culture in STEM, lack of role models, mentors and incrementally for entrepreneurs – lack of access to capital. To foster a conducive environment for women in STEM, we need to create more role models for emerging women in STEM. 
 2.	Collaboration – we believe that they innovation leaders of tomorrow will be the ones that collaborate across borders to solve global challenges. As backers of IP-led start-ups with a specific core competency, we want our founders to play meaningfully in the global innovation economy by collaborating with others with complementary technologies in the solution stack to move faster. We expect these collaborations to create bidirectional flows of value. We are working hard to develop innovation bridges between India and other global innovation hubs to allow for technology, talent and capital transfers that along with solving global climate change create development opportunities on both sides in the form of access to markets, jobs and prosperity.
-
-<p>If you are a climate tech innovation ecosystem leader in your local economy or an innovator building a climate tech start-up with global inclusive impact potential, please do reach out to us. We would love to learn from your experiences and explore opportunities to collaborate </p>
-
-
 
 {% include faq.html %}
