@@ -19,8 +19,8 @@ promoted: true
 weight: 5
 cta-heading: "Are you an Investor?"
 cta-description: "Are you investing for posterity? Are you looking to invest into the transition from an extractive and consumeristic society to a society that is more mindful of its impact on the environment and thoughtful in its choices? We want to hear from you!"
-cta-button-text: "Join Us Today"
-cta-button-url:
+cta-button-text: "Reach out to us!"
+cta-button-url: "https://www.linkedin.com/in/karthikchandrasekar/"
 questions:
     - "Imagine"
     - "Vienna"
