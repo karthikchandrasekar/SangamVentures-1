@@ -4,7 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 show-page: true
 show-faq: true
-show-cta: false
+show-cta: true
 show-cover-image: false
 image: "images/resource/icon-5.svg"
 cover-image: "images/cover/green-field.jpg"
@@ -17,10 +17,10 @@ author-linkedinurl: "https://www.linkedin.com/in/karthikchandrasekar/"
 category: "funding"
 promoted: true
 weight: 5
-cta-heading: "Are you a startup?"
-cta-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
+cta-heading: "Are you an Investor?"
+cta-description: "Are you investing for posterity? Are you looking to invest into the transition from an extractive and consumeristic society to a society that is more mindful of its impact on the environment and thoughtful in its choices? We want to hear from you!"
 cta-button-text: "Join Us Today"
-cta-button-url: "/resource/startups"
+cta-button-url:
 questions:
     - "Imagine"
     - "Vienna"
