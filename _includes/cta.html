@@ -2,12 +2,25 @@
 <!-- Call to Action Section -->
 <div class="container">
   <div class="row cta-box">
-    <h2 id="heading">{{ page.cta-heading }} </h2>
+    <h2 id="heading">{{ page.cta-heading }}</h2>
     <span>
       <p>{{ page.cta-description }}</p>
     </span>
+
     <button type="button" class="btn button btn-primary btn-lg">
-      <a href="{{ page.cta-button-url | relative_url }}" class = "button-text">{{ page.cta-button-text }}</a></button>
+      {% if page.cta-button-url contains "http" %}
+        <!-- External link -->
+        <a href="{{ page.cta-button-url }}" target="_blank" rel="noopener" class="button-text">
+          {{ page.cta-button-text }}
+        </a>
+      {% else %}
+        <!-- Internal link -->
+        <a href="{{ page.cta-button-url | relative_url }}" class="button-text">
+          {{ page.cta-button-text }}
+        </a>
+      {% endif %}
+    </button>
+
   </div>
 </div>
 {% endif %}
