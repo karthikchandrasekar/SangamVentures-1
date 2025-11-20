@@ -21,12 +21,14 @@ cta-heading: "Are you an Investor?"
 cta-description: "Are you investing for posterity? Are you looking to invest into the transition from an extractive and consumeristic society to a society that is more mindful of its impact on the environment and thoughtful in its choices? We want to hear from you!"
 cta-button-text: "Reach out to us!"
 cta-button-url: "https://www.linkedin.com/in/karthikchandrasekar/"
+
 questions:
-    - "Where is the fund incorporated and why did we choose that domicile?"
-    - "Why are you focused on Seed and Early stage startups?"
-    - "How do you source deals? Can we get a good pipeline?"
+  - "Where is the fund incorporated and why did we choose that domicile?"
+  - "Why are you focused on Seed and Early stage startups?"
+  - "How do you source deals? Can we get a good pipeline?"
+
 answers:
-    - >-
+  - >-
       Sangam is domiciled in Mauritius for the flexibility to invest across the Indian
       sub-continent and in global start-ups targeting our markets. Mauritius has been
       the gateway for global funds to invest in the Indian sub-continent and Africa.
@@ -56,19 +58,4 @@ answers:
       the most compelling start-ups. When we feel that the thesis might be nascent in
       the region, we run incubation and acceleration programs to build a pipeline of
       potential start-ups through our in-house incubator, AIC-Sangam. In such cases,
-      we might get start-ups that have been significantly de-risked by the incubation
-      team’s work with them over a period of 3–9 months before we invest. We also get
-      significant inbound deal flow from the venture community, multiple angel investors,
-      and a network of incubators and accelerators that we work closely with.
----
-
-<p>Our key raison d'être is to find long-term large-scale permanent transitions to our way of life to tackle the climate crisis. We only invest in enterprises that actively contribute new solutions to tackling the climate crisis and entrepreneurs who are working on some of these hard challenges that are not finding support from mainstream investors.</p>
-
-<ul>
-  <li>If you are here because you are disillusioned by what the traditional venture capital firms have to offer as climate investments, we would love to speak with you.</li>
-  <li>If you have a desire to support STEM invention and prosperity but not at the cost of nature or the suffering of the marginalized, we would love to speak with you.</li>
-  <li>If you are a technocrat, who has been there and created an amazing engineering business, providing employment opportunities and investing in R&D, we would love for us and our entrepreneurs to benefit from your experience beyond capital, please do reach out to us!</li>
-</ul>
-
-{% include faq.html %}
-{% include cta.html %}
+      we might get start-ups that have been significantly de-risked by the
