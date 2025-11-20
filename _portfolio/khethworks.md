@@ -7,7 +7,7 @@ tagline: ""
 websiteurl: "https://www.khethworks.com/"
 websitedomain: "khethworks.com"
 category: "Regenerative Food Systems"
-weight: 5
+weight: 7
 layout: portfolio
 ---
 
