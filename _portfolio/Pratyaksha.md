@@ -7,7 +7,7 @@ tagline: ""
 websiteurl: ""
 websitedomain: ""
 category: "Regenerative Food Systems"
-weight: 8
+weight: 9
 layout: portfolio
 ---
 
