@@ -31,11 +31,13 @@ answers:
     - "We all came out to Montreux <br> On the Lake Geneva shoreline <br> To make records with a mobile <br> We didn't have much time <br> Frank Zappa and the Mothers <br> Were at the best place around <br> But some stupid with a flare gun <br> Burned the place to the ground! <br> -Deep Purple"
 ---
 
-Our key raison d'être is to find long-term large-scale permanent transitions to our way of life to tackle the climate crisis. We only invest in enterprises that actively contribute new solutions to tackling the climate crisis and entrepreneurs who are working on some of these hard challenges that are not finding support from mainstream investors. 
-•	If you are here because you are disillusioned by what the traditional venture capital firms have to offer as climate investments, we would love to speak with you.
-•	If you have a desire to support STEM invention and prosperity but not at the cost of nature or the suffering of the marginalized, we would love to speak with you.
-•	If you are a technocrat, who has been there and created an amazing engineering business, providing employment opportunities and investing in R&D, we would love for us and our entrepreneurs to benefit from your experience beyond capital, please do reach out to us!
+<p>Our key raison d'être is to find long-term large-scale permanent transitions to our way of life to tackle the climate crisis. We only invest in enterprises that actively contribute new solutions to tackling the climate crisis and entrepreneurs who are working on some of these hard challenges that are not finding support from mainstream investors.</p>
 
+<ul>
+  <li>If you are here because you are disillusioned by what the traditional venture capital firms have to offer as climate investments, we would love to speak with you.</li>
+  <li>If you have a desire to support STEM invention and prosperity but not at the cost of nature or the suffering of the marginalized, we would love to speak with you.</li>
+  <li>If you are a technocrat, who has been there and created an amazing engineering business, providing employment opportunities and investing in R&D, we would love for us and our entrepreneurs to benefit from your experience beyond capital, please do reach out to us!</li>
+</ul>
 
 {% include faq.html %}
 {% include cta.html %}
