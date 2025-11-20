@@ -7,7 +7,7 @@ tagline: "We Bring the Efficiency to Energy Efficiency"
 websiteurl: "https://www.smartjoules.co.in"
 websitedomain: "smartjoules.co.in"
 category: "Just Energy Transition"
-weight: 1
+weight: 5
 layout: portfolio
 ---
 
