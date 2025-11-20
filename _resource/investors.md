@@ -31,7 +31,8 @@ answers:
       start-ups, while start-ups complain that investors keep waiting for them to
       become investment-ready. We support young, passionate technical entrepreneurs
       with the right risk capital and venture assistance. We are, in effect, fighting
-      the streetlight effect"
+      the streetlight effect
+      <br><br><img src='https://karthikchandrasekar.github.io/SangamVentures-1/images/illustrations/streetlighteffect.png' style='max-width:100%; height:auto; display:block; margin:1rem 0;'>"
     - "We proactively source deals based on thesis deep dives by the team into specific
       problem spaces where we cold-call start-up founders or use our networks to find
       the most compelling start-ups. When we feel that the thesis might be nascent in
