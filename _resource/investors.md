@@ -23,11 +23,13 @@ cta-button-text: "Reach out to us!"
 cta-button-url: "https://www.linkedin.com/in/karthikchandrasekar/"
 questions:
     - "Where is the fund incorporated and why did we choose that domicile?"
-    - "Vienna"
+    - "Why are you focused on Seed and Early stage startups?"
     - "Smoke on the water"
 answers:
     - "Sangam is domiciled in Mauritius for the flexibility to invest across the Indian sub-continent and in global start-ups targeting our Markets. Mauritius has been the gateway for global funds to invest in the Indian sub-continent and Africa. We picked Mauritius as the domicile for its strong experience of supporting fund management businesses and the flexibility it provides for fund structures and strategy, like open-ended funds and the Protected Cell Company, over what were available under Indian regulation at the time"
-    - "Where's the fire, what's the hurry about? <br> You better cool it off before you burn it out <br> You got so much to do and only <br> so many hours in a day! <br> -Bob Dylan"
+    - ""<p>We see too many investors lament that there are not enough investment-ready start-ups, while start-ups complain that investors keep waiting for them to become investment-ready. We support young, passionate technical entrepreneurs with the right risk capital and venture assistance. We are, in effect, fighting the streetlight effect (see below).</p>
+     <h3>The streetlight effect, or the drunkard's search principle</h3>
+     <img src='/images/illustrations/streetlighteffect.png' alt='Streetlight Effect Illustration' style='max-width:100%; height:auto;'>"
     - "We all came out to Montreux <br> On the Lake Geneva shoreline <br> To make records with a mobile <br> We didn't have much time <br> Frank Zappa and the Mothers <br> Were at the best place around <br> But some stupid with a flare gun <br> Burned the place to the ground! <br> -Deep Purple"
 ---
 
