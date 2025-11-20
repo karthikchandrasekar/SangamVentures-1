@@ -22,13 +22,13 @@ cta-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed d
 cta-button-text: "Join Us Today"
 cta-button-url: "/resource/startups"
 questions:
-    - "Imagine"
-    - "Vienna"
-    - "Smoke on the water"
+    - "Do you lead rounds?"
+    - "What Stage(s) will the fund invest in?"
+    - "Can you invest outside India?"
 answers:
-    - "Imagine there's no countries <br> It isn't hard to do <br> Nothing to kill or die for and no religion, too <br> Imagine all the people <br> Livin' life in peace! <br> -John Lennon"
-    - "Where's the fire, what's the hurry about? <br> You better cool it off before you burn it out <br> You got so much to do and only <br> so many hours in a day! <br> -Bob Dylan"
-    - "We all came out to Montreux <br> On the Lake Geneva shoreline <br> To make records with a mobile <br> We didn't have much time <br> Frank Zappa and the Mothers <br> Were at the best place around <br> But some stupid with a flare gun <br> Burned the place to the ground! <br> -Deep Purple"
+    - "Yes, as a sector focused early-stage investor, we often set terms and crowd other investors in, especially angel investors as well as institutional investors who do not have the mandate to lead rounds. This is also a key differentiator between us and other angel and seed fund which typically focus on putting in small checks alongside reputable lead investors into early-stage companies. Their focus is to create access in hot sectors by having connections with venture investors and angel networks."
+    - "The Seed Fund cell will invest from the seed stage up to Series-A (including early Series-A rounds while the start-ups are still pre-revenue). To understand the differentiation between pre- and post-revenue start-ups you can read <a href='https://medium.com/@kchandrasekar/catapulting-startups-into-scale-mode-or-the-answer-to-the-question-do-you-have-revenues-524f428ff305' target='_blank' rel='noopener'>\"Catapulting start-ups into scale mode or the answer to the question — Do you have revenues?\"</a> by Sangam founder, Karthik Chandrasekar. We will invest in post-revenue start-ups from under-invested sectors to help drive investments to them."
+    - "Yes, while our focus and preference is to invest in Indian companies since we understand this market the best, We have the optionality to invest into technological innovation globally or into companies operating in india but domiciled elsewhere"
 ---
 
 
