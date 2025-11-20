@@ -18,9 +18,9 @@ show-cta: true
 promoted: true
 weight: 2
 cta-heading: "Are you an Investor?"
-cta-description: "Are you working on an innovation that will bring us in harmony with nature and preserves what precious diversity our planet has to offer for the future generations or an innovation that creates new inclusive market-based solutions that improve the quality of life of the poor and vulnerable populations, We want to hear from you!"
+cta-description: "Are you investing for posterity? Are you looking to invest into the transition from an extractive and consumeristic society to a society that is more mindful of its impact on the environment and thoughtful in its choices? We want to hear from you!"
 cta-button-text: "Join Us Today"
-cta-button-url: "/resource/startups"
+cta-button-url: "/resource/investors"
 questions:
     - "Imagine"
     - "Vienna"
