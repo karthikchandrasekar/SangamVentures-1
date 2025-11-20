@@ -7,7 +7,7 @@ tagline: ""
 websiteurl: "https://www.carbonlites.com/"
 websitedomain: "carbonlites.com"
 category: "Resource Productivity"
-weight: 6
+weight: 8
 layout: portfolio
 ---
 
