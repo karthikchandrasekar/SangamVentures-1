@@ -5,7 +5,7 @@ draft: false
 image: "images/portfolio/pratyaksha_card_balanced.svg"
 tagline: ""
 websiteurl: "https://agropratyaksha.com"
-websitedomain: ""
+websitedomain: "agropratyaksha.com"
 category: "Regenerative Food Systems"
 weight: 9
 layout: portfolio
